@@ -133,7 +133,11 @@ function [f,xi,u]=ksdensity(varargin)
     xi=[];
 
     %
-    
+    %%%%%je pense qu'ici je verrai le premier commit de la mort et qu'un
+    %%%%%jour je serai préseident de la république meme si c'est assez dur
+    %%%%%car la vie est simplement plus dure qu'un simple blues sur le pont
+    %%%%%des arts avec un max de meufs en train de me regardzer jouer de la
+    %%%%%guitare en chantant le blues du soir
     x=varargin(1);
     varlist
     x = x(:);
